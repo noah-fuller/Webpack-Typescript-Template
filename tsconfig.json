@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      // Aliases go here
+      // "*Alias Name*": [
+      //   "*Alias Path*"
+      // ],
+    },
+    "noImplicitAny": true,
+    "module": "esnext",
+    "target": "esnext",
+    "allowJs": true,
+    "moduleResolution": "node",
+  },
+  "include": [
+    "./src"
+  ],
+}
